@@ -1,0 +1,13 @@
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.19.0
+networkx>=2.5
+matplotlib>=3.3.0
+
+# Pi Camera support (optional - install only on Raspberry Pi)
+# Uncomment if using Pi Camera:
+# picamera2
+# libcamera
+
+# Additional utilities
+scipy>=1.5.0
